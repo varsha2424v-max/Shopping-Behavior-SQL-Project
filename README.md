@@ -3,7 +3,7 @@
 # Shopping Behavior SQL Project
 
 ## Author
-Varsha Saini
+Varsha Rani
 
 ## Project Overview
 This project contains a sample customer shopping dataset and SQL queries to analyze customer behavior.
